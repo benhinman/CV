@@ -8,31 +8,44 @@ I am a passionate, loyal, and hard-working Software Developer that specialises i
 
 ## 🧰 Skills
 
-| Languages  | Frameworks   | Databases     | Cloud      | Patterns | Tools          |
-| ---------- | ------------ | ------------- | ---------- | ---------| -------------- |
-| C#         | .NET         | SQL Server    | Azure      | REST     | Docker         |
-| Clojure    | ASP.NET      | PostgreSQL    | Kubernetes | HATEOAS  | Jira           |
-| JavaScript | Ring         | Redis         | Helm       | DDD      | Git            |
-| Swift      | Hotwire      | Elasticsearch |            | CQRS     | Bitbucket      |
-| HTML       | React        |               |            | ES       | GitHub         |
-| CSS        | Redux        |               |            | SOLID    | TeamCity       |
-| Sass       | Headless UI  |               |            |          | Octopus Deploy |
-| Less       | Cocoa Touch  |               |            |          |                |
-| SQL        | Tailwind CSS |               |            |          |                |
-| T-SQL      |              |               |            |          |                |
-| PL/pgSQL   |              |               |            |          |                |
+| Languages  | Frameworks       | Databases     | Cloud      | Patterns | Tools          |
+| ---------- | ---------------- | ------------- | ---------- | ---------| -------------- |
+| C#         | .NET             | SQL Server    | Azure      | REST     | Docker         |
+| Clojure    | ASP.NET          | PostgreSQL    | Terraform  | HATEOAS  | Jira           |
+| JavaScript | Entity Framework | Redis         | Kubernetes | DDD      | Git            |
+| TypeScript | Ring             | Elasticsearch | Helm       | CQRS     | Bitbucket      |
+| Swift      | Hotwire          |               |            | ES       | GitHub         |
+| HTML       | React            |               |            | SOLID    | TeamCity       |
+| CSS        | React Query      |               |            |          | Octopus Deploy |
+| Sass       | Redux            |               |            |          | Azure DevOps   |
+| Less       | Material UI      |               |            |          |                |
+| SQL        | Headless UI      |               |            |          |                |
+| T-SQL      | Cocoa Touch      |               |            |          |                |
+| PL/pgSQL   | Tailwind CSS     |               |            |          |                |
 
 ## 📉 Methodologies
 
 * Agile
-  * Scrum
   * Kanban
+  * Scrum
 
 ## 🏢 Experience
 
-### Marval Software Ltd. — 2007 - Present
+### Advanced Computer Software Group Ltd. / Smart Apprentices Ltd. - 2021 - 2023
 
-#### DevOps Subject Matter Expert — 2020 - Present
+#### Senior Software Developer - 2021 - 2023
+* Lead agile transformation process  
+  *🧰 Kanban, Jira*
+* Improved robustness of event bus implementation  
+  *🧰 C#, .NET, Azure (Service Bus)*
+* Implemented Business Development and Qualifications module features  
+  *🧰 C#, TypeScript, .NET, ASP.NET, Entity Framework, React, React Query, Material UI, SQL Server, Azure, Terraform, Kubernetes, Helm, REST, CQRS*
+* Implemented Smart Coach machine learning inference pipeline  
+  *🧰 Python, Azure (Machine Learning, Data Factory), Terraform*
+
+### Marval Software Ltd. — 2007 - 2021
+
+#### DevOps Subject Matter Expert — 2020 - 2021
 * Launched Marval Cloud  
   *🧰 Azure, Kubernetes, Helm, Docker, Octopus Deploy*
 * Moved company infrastructure to the cloud  
@@ -40,7 +53,7 @@ I am a passionate, loyal, and hard-working Software Developer that specialises i
 * Defined product direction on leadership team  
   *🧰 Jira*
 
-#### Software Architect — 2014 - Present
+#### Software Architect — 2014 - 2021
 * Implemented UI/UX reference architecture  
   *🧰 JavaScript, React, Redux, Headless UI, Tailwind CSS*
 * Created NextGen application foundational architecture  
